@@ -1,4 +1,17 @@
 # 👋 Hi, I'm Akshata Chettiar
+<p align="center">
+  <a href="https://github.com/Akshu121796">
+    <img src="https://img.shields.io/badge/GitHub-Akshu121796-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshata-chettiar">
+    <img src="https://img.shields.io/badge/LinkedIn-Akshata%20Chettiar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:akshata.zerosix@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
 
 ### AI/ML Engineering Student • Open Source Contributor • Builder
 
@@ -16,23 +29,6 @@ I'm an **AI/ML engineering student** interested in building practical, scalable 
 - 💻 40 merged PRs across 21 repositories
 
 ---
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Akshu121796">
-    <img src="https://img.shields.io/badge/GitHub-Akshu121796-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/akshata-chettiar">
-    <img src="https://img.shields.io/badge/LinkedIn-Akshata%20Chettiar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:akshata.zerosix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
 
 ## 🏆 Achievements
 
