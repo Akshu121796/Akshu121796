@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akshata Chettiar
+ <p align="center"> # 👋 Hi, I'm Akshata Chettiar
 <p align="center">
   <a href="https://github.com/Akshu121796">
     <img src="https://img.shields.io/badge/GitHub-Akshu121796-black?style=for-the-badge&logo=github" />
